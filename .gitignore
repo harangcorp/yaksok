@@ -11,3 +11,6 @@ code_examples/2048/yaksok
 build
 dist
 yaksok.egg-info
+
+.github
+.vscode
