@@ -40,7 +40,7 @@ def ____subscript(l, x):
         return l[x]
 
 def ____print_one(x):
-    print(x)
+    print('[HORANG] STDOUT >>', x)
 
 def ____exit_noprob():
     exit(0)
